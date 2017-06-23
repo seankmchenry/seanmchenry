@@ -1,0 +1,9 @@
+# Junk files
+.DS_Store
+Desktop.ini
+Thumbs.db
+
+# Folders
+docs/
+node_modules/
+src/
