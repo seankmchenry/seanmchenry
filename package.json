@@ -32,7 +32,6 @@
     "cssstats": "^1.4.0",
     "filesize": "^3.1.2",
     "http-server": "^0.8.0",
-    "lodash": "^3.6.0",
     "watch": "^0.15.0"
   },
   "scripts": {
